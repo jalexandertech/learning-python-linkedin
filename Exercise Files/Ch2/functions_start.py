@@ -29,4 +29,5 @@ def multi_add(*args):
         result = result + x
     return result
 print(multi_add(5, 10, 20, 45))
+#Read https://www.geeksforgeeks.org/args-kwargs-python/ for more information
 
